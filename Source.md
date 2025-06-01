@@ -44,4 +44,3 @@
  https://urlhaus.abuse.ch/downloads/hostfile/ | Hosts | urlhaus Team | No or Unknown |  
  https://someonewhocares.org/hosts/zero/hosts | Hosts | someonewhocares | No or Unknown |  
  https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt | Hosts | Spam404 | No or Unknown 
- https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt | Clash | Loyalsoldier | GPL-3.0 license | |
